@@ -3,7 +3,8 @@ export const ASSET_URL =
 
 export enum EmbedTheme {
   Default = "true",
-  Simple = "dark",
+  Simple = "simple",
+  Dark = "dark",
 }
 
-export const CHOSEN_THEME = EmbedTheme.Default;
+export const CHOSEN_THEME = EmbedTheme.dark;
