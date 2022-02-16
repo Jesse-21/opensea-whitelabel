@@ -2,7 +2,6 @@ import React from 'react';
 import { ASSET_URL, CHOSEN_THEME } from './constants'
 import logo from './static/images/logo.png';
 import './static/styles/App.css';
-import footer from './static/images/footer.png';
 import { iframeResizer } from 'iframe-resizer'
 import './static/styles/App.css';
 
