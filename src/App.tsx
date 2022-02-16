@@ -34,10 +34,7 @@ class App extends React.Component {
           </div>
           <iframe id="opensea-iframe" title="Embedded OpenSea Marketplace" src={embeddedUrl} width='100%' height='100%' frameBorder='0' allowFullScreen></iframe>
         </main>
-        <footer className="App-footer">
-          {/* Placeholder image for footer */}
-          <img style={{width: '100%'}} src={footer} className="footer" alt="footer" />
-        </footer>
+        
       </div>
     );
   }
