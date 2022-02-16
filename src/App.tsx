@@ -26,11 +26,10 @@ class App extends React.Component {
         </header>
         <main className="App-main">
           <div className="App-hero">
-            <div className="App-hero-image"></div>
             <p>
-              My Marketplace
+Of1 NFT
             </p>
-            <small>Digital collectibles from my company</small>
+            <small>Digital Art and collectibles</small>
           </div>
           <iframe id="opensea-iframe" title="Embedded OpenSea Marketplace" src={embeddedUrl} width='100%' height='100%' frameBorder='0' allowFullScreen></iframe>
         </main>
