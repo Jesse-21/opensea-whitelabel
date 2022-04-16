@@ -1,5 +1,5 @@
 export const ASSET_URL =
-  "https://opensea.io/Of1NFT-Marketplace";
+  "https://opensea.io/assets/matic/0x23a4aa802ec83e8475ce28c85c8034c1ac916934";
 
 export enum EmbedTheme {
   Default = "true",
