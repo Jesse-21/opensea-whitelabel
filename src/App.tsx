@@ -26,7 +26,7 @@ class App extends React.Component {
         <main className="App-main">
           <div className="App-hero">
             <p>
-Of1 NFT
+              Of1 NFT
             </p>
             <small>Digital Art and collectibles</small>
           </div>
