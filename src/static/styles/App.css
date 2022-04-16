@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  height: 10vh;
+  height: 3vh;
   padding: 0 5vmax;
   display: flex;
   flex-direction: row;
@@ -18,14 +18,14 @@
 }
 
 .App-main {
-  min-height: 500vh;
+  min-height: 1000vh;
   left: 0;
   bottom: 0;
   right: 0;
 }
 
 .App-footer {
-  min-height: 10vh;
+  min-height: 3vh;
   background-color: #6229ca;
   text-align: left;
 }
