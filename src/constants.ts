@@ -1,5 +1,5 @@
 export const ASSET_URL =
-  "https://opensea.io/assets/matic/0x23a4aa802ec83e8475ce28c85c8034c1ac916934";
+  "https://opensea.io/assets/matic/0x23a4aa802ec83e8475ce28c85c8034c1ac916934?embed=true";
 
 export enum EmbedTheme {
   Default = "True",
@@ -7,4 +7,4 @@ export enum EmbedTheme {
   Dark = "Dark",
 }
 
-export const CHOSEN_THEME = EmbedTheme.Simple;
+export const CHOSEN_THEME = EmbedTheme.Night;
