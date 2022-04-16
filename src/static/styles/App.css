@@ -25,8 +25,8 @@
 }
 
 .App-footer {
-  min-height: 3vh;
-  background-color: #6229ca;
+  min-height: 0vh;
+  background-color: ;
   text-align: left;
 }
 
@@ -74,7 +74,7 @@
   filter: blur(3px);
   -webkit-filter: blur(3px);
   background-image: url("../images/hero.jpg");
-  background-size: cover;
+  background-size: 0;
   background-position: center center;
   background-repeat: no-repeat;
   opacity: 0.6;
