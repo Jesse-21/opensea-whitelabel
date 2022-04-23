@@ -1,5 +1,5 @@
 export const ASSET_URL =
-  "https://opensea.io/collection/jesse21-private-nft-factory";
+  "https://opensea.io/collection/jesse21-private-nft-factory?Embed=true";
 
 export enum EmbedTheme {
   Default = "True",
