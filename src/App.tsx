@@ -24,7 +24,7 @@ class App extends React.Component {
           <i className="material-icons right">menu</i>
         </header>
         <main className="App-main">
-<Div>
+          
           <iframe id="opensea-iframe" title="Embedded OpenSea Marketplace" src={embeddedUrl} width='100%' height='600px' frameBorder='0' allowFullScreen></iframe>
         </main>
         
