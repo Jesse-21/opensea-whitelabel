@@ -7,4 +7,4 @@ export enum EmbedTheme {
   Dark = "Dark",
 }
 
-export const CHOSEN_THEME = EmbedTheme.Simple;
+export const CHOSEN_THEME = EmbedTheme.Dark;
